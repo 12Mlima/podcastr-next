@@ -68,5 +68,5 @@ This project is under MIT License. Access <a href="https://github.com/Nandosbx/p
 
 
 <footer align="center">
- <strong align="center">Made with 💜 by Fernando Batista</strong>
+ <strong align="center">Made with 💜 by Marsel Lima</strong>
 </footer>
